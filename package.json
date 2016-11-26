@@ -1,0 +1,26 @@
+{
+  "name": "coins_change",
+  "version": "1.0.0",
+  "description": "compute the minimum coins number change",
+  "main": "change.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pigats/coins_change.git"
+  },
+  "author": "pigats",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pigats/coins_change/issues"
+  },
+  "homepage": "https://github.com/pigats/coins_change#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
